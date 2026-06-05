@@ -8,7 +8,7 @@
             <i class="ti ti-apple" aria-hidden="true"></i>
             Наші сорти
           </div>
-          <h2 class="section-title">Свіжо зібрані <em>сьогодні</em></h2>
+          <h2 class="section-title">Свіжо зібрані сьогодні</h2>
           <p class="cat-sub">Фільтруйте за сезоном, смаком або ціною. Кожен сорт — прямо з нашого саду.</p>
         </div>
         <RouterLink to="/catalog" class="btn-ghost">

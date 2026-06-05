@@ -7,7 +7,7 @@
             <i class="ti ti-calendar" aria-hidden="true"></i>
             Сезонність
           </div>
-          <h2 class="section-title">Календар <em>дозрівання</em></h2>
+          <h2 class="section-title">Календар <дозрівання></h2>
           <p class="cal-sub">Знайте, коли саме ваш улюблений сорт буде в наявності.</p>
         </div>
         <div class="cal-legend">
